@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-platform-orchestration-c64302ad-vue-inertia",
+  "capabilityKey": "liberusoftware/module-liberu-platform-orchestration",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-module-liberu-platform-orchestration-c64302ad-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-platform-orchestration.md",
+  "presentationPlan": "projects/accounting/vue/liberu-platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
